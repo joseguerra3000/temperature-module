@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD22103KR
+D Temperature Sensor with on-chip signal conditioning
+K AD22103, Temperature, sensor 
+F datasheets/AD22103.pdf
+$ENDCMP
+#
+$CMP AD22103KT
+D Temperature Sensor with on-chip signal conditioning
+K AD22103, Temperature, sensor
+F AD22103.pdf
+$ENDCMP
+#
+$CMP LM35CZ
+D Precision Centigrade Temperature Sensor
+K LM35, Temperature, sensor 
+F LM35.pdf
+$ENDCMP
+#
+$CMP LM35DM
+D Precision Centigrade Temperature Sensor
+K LM35, Temperature, sensor 
+F LM35.pdf
+$ENDCMP
+#
+#End Doc Library

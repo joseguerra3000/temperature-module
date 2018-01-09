@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TemperatureMod	KEYWORD1
+Modulo_Temp_JGC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach_LM35	KEYWORD2
+attach_AD22103	KEYWORD2
+attach_RT	KEYWORD2
+read_LM35	KEYWORD2
+read_AD22103	KEYWORD2
+read_RT	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
